@@ -1,0 +1,15 @@
+name: ipython
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pip
+  - numpy
+  - scipy
+  - ipython
+  - ipykernel
+  - pandas
+  - matplotlib
+  - scikit-learn
+
+
